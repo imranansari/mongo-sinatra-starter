@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.1.pre.4, Ruby SDK 1.9.2-p94) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mongoid (v2.4.4, Ruby SDK 1.9.2-p94) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.1.15, Ruby SDK 1.9.2-p94) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.3.0, Ruby SDK 1.9.2-p94) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thin (v1.2.7, Ruby SDK 1.9.2-p94) [gem]" level="application" />
+  </component>
+</module>
+
